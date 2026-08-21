@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tayn-16.
-- 👀 I’m interested in joining the Cybersecutiy branch, particularilyGovernance, Risk and Compliance.
+- 👀 I’m interested in joining the Cybersecurity branch, particularly Governance, Risk and Compliance.
 - 🌱 I’m currently learning html, python and C++.
 - Currently in my second year Of computing.
 
